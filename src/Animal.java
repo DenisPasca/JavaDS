@@ -1,0 +1,8 @@
+public interface Animal {
+
+    String getAnimalName();
+
+    String getAnimalType();
+
+
+}
